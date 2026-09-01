@@ -1,0 +1,4 @@
+node_modules
+*.log
+lastrace.sqlite-wal
+lastrace.sqlite-shm
